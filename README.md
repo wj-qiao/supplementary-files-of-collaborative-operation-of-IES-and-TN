@@ -1,1 +1,1 @@
-This a repository that contains the supplementary files of the paper entitled "Collaborative operation of integrated energy systems and transportation networks for economic and emission management incorporating utility theory".
+This repository contains the supplementary files of the paper entitled "Collaborative operation of integrated energy systems and transportation networks for economic and emission management incorporating utility theory".
